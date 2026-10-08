@@ -98,3 +98,5 @@ $$\text{Expected Revenue} = 2.3 \times (£10.00 \times (1 - 0.10)) = £20.70$$
 ## Final Conclusion
 
 By linking machine learning predictions back to simple financial arithmetic ($\text{Revenue} = \text{Volume} \times \text{Price}$), this project demonstrates how data science enables B2B wholesalers to test "what-if" pricing strategies before deploying them in the live market.
+
+[← Back to Main Portfolio](https://github.com/araba07/Analytics-Portfolio)
