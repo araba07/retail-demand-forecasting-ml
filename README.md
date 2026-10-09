@@ -1,4 +1,4 @@
-# B2B Wholesale Price Elasticity & Revenue Optimization
+# B2B Wholesale Price Elasticity & Revenue Optimisation
 
 ## 1. Project Introduction & Business Context
 
